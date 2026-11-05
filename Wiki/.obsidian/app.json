@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Start Here",
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "trashOption": "local",
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "foldHeading": true,
+  "foldIndent": true
+}

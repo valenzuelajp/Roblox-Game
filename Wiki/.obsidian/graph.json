@@ -1,0 +1,63 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00 Start Here\"",
+      "color": { "a": 1, "rgb": 16765286 }
+    },
+    {
+      "query": "path:\"01 Game Design\"",
+      "color": { "a": 1, "rgb": 5154014 }
+    },
+    {
+      "query": "path:\"02 Story\"",
+      "color": { "a": 1, "rgb": 10178021 }
+    },
+    {
+      "query": "path:\"03 Systems\"",
+      "color": { "a": 1, "rgb": 15681391 }
+    },
+    {
+      "query": "path:\"04 Scenarios\"",
+      "color": { "a": 1, "rgb": 16220267 }
+    },
+    {
+      "query": "path:\"05 World\"",
+      "color": { "a": 1, "rgb": 447136 }
+    },
+    {
+      "query": "path:\"06 Development\"",
+      "color": { "a": 1, "rgb": 9278894 }
+    },
+    {
+      "query": "path:\"07 Player Wiki\"",
+      "color": { "a": 1, "rgb": 3065014 }
+    },
+    {
+      "query": "path:\"08 Research\"",
+      "color": { "a": 1, "rgb": 11571560 }
+    },
+    {
+      "query": "path:\"09 Templates\"",
+      "color": { "a": 1, "rgb": 7109501 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
