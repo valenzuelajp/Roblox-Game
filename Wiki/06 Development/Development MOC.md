@@ -13,6 +13,7 @@ summary: "Map of Content for building Blackwood Lodge: architecture, toolchain, 
 related:
   - "[[Technical Overview]]"
   - "[[Build Roadmap]]"
+  - "[[Implementation Plan]]"
   - "[[Studio MCP Setup]]"
   - "[[Project Structure]]"
 ---
@@ -40,12 +41,13 @@ related:
 2. [[Project Structure]]
 3. [[Toolchain and Rojo]]
 4. [[Studio MCP Setup]]
-5. [[DataStore and Persistence]]
-6. [[Procedural Map Generation]]
-7. [[Clue and Scenario Generation]]
-8. [[Client Architecture]]
-9. [[Testing Strategy]]
-10. [[Build Roadmap]]
+5. [[Implementation Plan]]
+6. [[DataStore and Persistence]]
+7. [[Procedural Map Generation]]
+8. [[Clue and Scenario Generation]]
+9. [[Client Architecture]]
+10. [[Testing Strategy]]
+11. [[Build Roadmap]]
 
 ### For a builder or artist
 
@@ -80,6 +82,7 @@ related:
 | [[Client Architecture]] | UI, input, camera, audio, replication | proposed |
 | [[Testing Strategy]] | Unit, integration, playtest, soak, security | proposed |
 | [[Build Roadmap]] | M0–M5 milestones and exit criteria | proposed |
+| [[Implementation Plan]] | Step-by-step technical implementation for M1 Grey-Box | proposed |
 | [[Publishing Checklist]] | Roblox listing, moderation, launch | proposed |
 | [[Risks and Mitigations]] | Risk matrix and owners | proposed |
 | [[Code Style]] | Luau conventions | proposed |
